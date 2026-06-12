@@ -51,6 +51,7 @@ Cinematic, empowering, intelligent, professional. A serious production tool for 
 2. **Image-first context** — visual uploads anchor the AI's understanding of the creator's vision
 3. **Project-native organization** — every asset, draft, and output lives inside its project; nothing floats loose
 4. **Pro output by default** — formatting, structure, and quality are always presentation-ready
+5. **Voice-first learning** — the more the creator uses it, the more the AI adapts to their unique tone and emotional signature; output grows increasingly personal over time
 
 ## Scope Notes
 - Initial focus: solo creators managing one or more active production projects (movies, games, series)
