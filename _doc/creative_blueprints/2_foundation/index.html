@@ -1,0 +1,87 @@
+<style>
+  .mode-landscape .sl-zones { flex-direction: row; }
+  .mode-portrait .sl-zones { flex-direction: column; }
+  .mode-landscape .sl-zone { width: 50%; }
+  .mode-portrait .sl-zone { width: 100%; flex: 1; }
+</style>
+<section class="w-full h-full bg-white overflow-auto">
+  <div class="h-full flex flex-col p-12">
+
+    <!-- Header -->
+    <div class="mb-8">
+      <span class="text-xs font-bold uppercase tracking-widest text-amber-500">The Situation</span>
+      <h2 class="text-3xl font-black text-slate-900 mt-1">Why solo creators are stuck</h2>
+    </div>
+
+    <!-- Split zones -->
+    <div class="sl-zones flex flex-1 gap-6">
+
+      <!-- Problem -->
+      <div class="sl-zone">
+        <div class="h-full bg-slate-900 rounded-2xl p-8 flex flex-col">
+          <div class="flex items-center gap-2 mb-5">
+            <div class="w-8 h-8 bg-red-500/20 rounded-full flex items-center justify-center shrink-0">
+              <span class="text-red-400 font-bold text-sm leading-none">✕</span>
+            </div>
+            <span class="text-red-400 text-xs font-bold uppercase tracking-widest">The Problem</span>
+          </div>
+          <p class="text-white text-lg font-semibold leading-snug mb-5">
+            Running a solo production means wearing every hat — and most tools only fit one.
+          </p>
+          <ul class="space-y-3 flex-1">
+            <li class="flex items-start gap-3 text-slate-400 text-sm">
+              <span class="text-red-400 mt-0.5 shrink-0">▸</span>
+              Research, writing, design, and organization scattered across a dozen different apps
+            </li>
+            <li class="flex items-start gap-3 text-slate-400 text-sm">
+              <span class="text-red-400 mt-0.5 shrink-0">▸</span>
+              No single home for movies, games, and creative projects — everything lives in random folders
+            </li>
+            <li class="flex items-start gap-3 text-slate-400 text-sm">
+              <span class="text-red-400 mt-0.5 shrink-0">▸</span>
+              Visual ideas trapped in your head with no way to share that context with AI tools
+            </li>
+            <li class="flex items-start gap-3 text-slate-400 text-sm">
+              <span class="text-red-400 mt-0.5 shrink-0">▸</span>
+              Time lost to tool-switching instead of actually creating
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Solution -->
+      <div class="sl-zone">
+        <div class="h-full bg-amber-50 border-2 border-amber-400 rounded-2xl p-8 flex flex-col">
+          <div class="flex items-center gap-2 mb-5">
+            <div class="w-8 h-8 bg-amber-400 rounded-full flex items-center justify-center shrink-0">
+              <span class="text-white font-bold text-sm leading-none">✓</span>
+            </div>
+            <span class="text-amber-700 text-xs font-bold uppercase tracking-widest">The Solution</span>
+          </div>
+          <p class="text-slate-900 text-lg font-semibold leading-snug mb-5">
+            An AI studio that handles the whole production — from first idea to final deliverable.
+          </p>
+          <ul class="space-y-3 flex-1">
+            <li class="flex items-start gap-3 text-slate-700 text-sm">
+              <span class="text-amber-500 mt-0.5 shrink-0">▸</span>
+              Intelligent assistant for research, writing, and creative direction in one place
+            </li>
+            <li class="flex items-start gap-3 text-slate-700 text-sm">
+              <span class="text-amber-500 mt-0.5 shrink-0">▸</span>
+              Content creation for trailers, posters, and merchandise — guided by your instruction
+            </li>
+            <li class="flex items-start gap-3 text-slate-700 text-sm">
+              <span class="text-amber-500 mt-0.5 shrink-0">▸</span>
+              Every project organized in its own professional workspace — nothing gets lost
+            </li>
+            <li class="flex items-start gap-3 text-slate-700 text-sm">
+              <span class="text-amber-500 mt-0.5 shrink-0">▸</span>
+              Upload images from phone or PC to give the AI real visual context for your vision
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
