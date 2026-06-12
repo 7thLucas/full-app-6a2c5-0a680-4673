@@ -47,52 +47,55 @@
 
         <!-- Formula -->
         <div class="bg-slate-50 border border-slate-100 rounded-xl p-5 flex-1">
-          <div class="text-xs text-slate-400 uppercase tracking-wider font-bold mb-4">Weekly Formula</div>
+          <div class="text-xs text-slate-400 uppercase tracking-wider font-bold mb-4">Weekly Formula (across all subscribers)</div>
           <div class="space-y-3 text-sm">
             <div class="flex items-center justify-between gap-3">
-              <span class="text-slate-700">Content assets created / week</span>
-              <span class="bg-amber-100 text-amber-700 text-xs px-2.5 py-1 rounded-full font-semibold whitespace-nowrap">Assumption — adjust this: 5</span>
+              <span class="text-slate-700">Active subscribers</span>
+              <span class="bg-amber-100 text-amber-700 text-xs px-2.5 py-1 rounded-full font-semibold whitespace-nowrap">Assumption — adjust this: 50</span>
             </div>
             <div class="flex items-center justify-between gap-3">
-              <span class="text-slate-700">Project sessions completed / week</span>
-              <span class="bg-amber-100 text-amber-700 text-xs px-2.5 py-1 rounded-full font-semibold whitespace-nowrap">Assumption — adjust this: 3</span>
+              <span class="text-slate-700">Operations per subscriber / week</span>
+              <span class="bg-amber-100 text-amber-700 text-xs px-2.5 py-1 rounded-full font-semibold whitespace-nowrap">Assumption — adjust this: 8</span>
             </div>
             <div class="border-t border-slate-200 pt-3 flex items-center justify-between">
               <span class="text-slate-900 font-bold">Total WVO</span>
-              <span class="text-amber-600 text-xl font-black">8 ops / week</span>
+              <span class="text-amber-600 text-xl font-black">400 ops / week</span>
             </div>
           </div>
         </div>
 
       </div>
 
-      <!-- Right: Value & ROI -->
-      <div class="sl-right flex flex-col">
-        <div class="bg-slate-900 rounded-2xl p-6 flex-1 flex flex-col justify-between">
+      <!-- Right: Value delivered + Revenue -->
+      <div class="sl-right flex flex-col gap-4">
 
+        <!-- Value delivered to subscribers -->
+        <div class="bg-slate-50 border border-slate-100 rounded-xl p-5">
+          <div class="text-xs text-slate-400 uppercase tracking-wider font-bold mb-2">Value Delivered to Subscribers</div>
+          <div class="text-slate-600 text-xs space-y-0.5 mb-2">
+            <div>400 ops × 45 min saved × $25 / hr</div>
+            <div class="text-slate-900 font-semibold text-sm">= $7,500 / week</div>
+          </div>
+          <span class="bg-amber-100 text-amber-700 text-xs px-2 py-0.5 rounded-full font-semibold">Assumption — adjust this</span>
+        </div>
+
+        <!-- Your revenue -->
+        <div class="bg-slate-900 rounded-2xl p-5 flex-1 flex flex-col justify-between">
           <div>
-            <div class="text-amber-400 text-xs font-bold uppercase tracking-wider mb-3">Value Per Operation</div>
+            <div class="text-amber-400 text-xs font-bold uppercase tracking-wider mb-3">Your Revenue Potential</div>
             <div class="text-slate-300 text-sm space-y-1 mb-2">
-              <div>45 min saved × $25 / hr (solo creator rate)</div>
-              <div class="text-white font-semibold">= $18.75 per operation</div>
+              <div>50 subscribers × $15 / mo</div>
+              <div class="text-white font-semibold">= $750 / month</div>
             </div>
             <span class="bg-amber-500/20 text-amber-400 text-xs px-2.5 py-0.5 rounded-full font-semibold inline-block">Assumption — adjust this</span>
           </div>
-
-          <div class="space-y-4 mt-4">
-            <div class="border-t border-slate-700 pt-4">
-              <div class="text-slate-400 text-xs uppercase tracking-wider mb-1">Weekly Value</div>
-              <div class="text-white text-3xl font-black">$150<span class="text-slate-400 text-sm font-normal"> / wk</span></div>
-              <div class="text-slate-500 text-xs mt-0.5">8 ops × $18.75</div>
-            </div>
-            <div>
-              <div class="text-slate-400 text-xs uppercase tracking-wider mb-1">Annual Value</div>
-              <div class="text-amber-400 text-4xl font-black">$7,800</div>
-              <div class="text-slate-500 text-xs mt-0.5">$150 / wk × 52 weeks</div>
-            </div>
+          <div class="border-t border-slate-700 pt-4 mt-3">
+            <div class="text-slate-400 text-xs uppercase tracking-wider mb-1">Annual Revenue</div>
+            <div class="text-amber-400 text-4xl font-black">$9,000</div>
+            <div class="text-slate-500 text-xs mt-0.5">$750 / mo × 12 months</div>
           </div>
-
         </div>
+
       </div>
 
     </div>
