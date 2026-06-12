@@ -25,10 +25,12 @@ Solo independent creators — filmmakers, content creators, game developers, sto
 - Merchandise design guided by the user's creative direction
 - Understands visual context via uploaded images (phone or PC)
 
-### 3. Project Organization
+### 3. Project Organization & Export
 - Each project (movie, video game, series, etc.) gets its own professional workspace
 - Assets, notes, drafts, and outputs are sorted into proper categories within each project
+- Full project history is always retrievable — nothing from previous sessions is ever lost
 - Copy-paste friendly output throughout — structured for immediate use
+- Export-ready outputs for print, pitch, or sharing — every deliverable formatted and ready to hand off
 - Clean, easy-to-navigate structure; nothing gets buried
 
 ### 4. Cross-Device Access
