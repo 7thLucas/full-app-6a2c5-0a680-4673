@@ -1,10 +1,10 @@
 # Product Overview
 
 ## Working Title
-*To be confirmed — candidates: ReelHeir, HeirCraft, StudioHeir (user decision pending)*
+*To be confirmed — current candidates: CineForge, Luminary (user decision pending; BloodHeir-themed names declined)*
 
 ## Company
-**BloodHeir Productions LLC** — the company building and publishing this product. The name "BloodHeir" carries two core themes that run through the product: creative intensity ("blood" = passion, making things with real investment) and ownership/legacy ("heir" = what you build is yours to keep and pass forward). App naming should honor this DNA.
+**BloodHeir Productions LLC** — the company building and publishing this product. App name should be independently catchy and industry-fitting rather than directly derived from the company name.
 
 ## What It Is
 An all-in-one AI-powered solo production studio and personal assistant — built for independent creators who run the whole show themselves and always hit a wall before a project is finished. Research, writing, content generation, merchandise design, and project organization all in one place, accessible from phone or PC — with an AI that learns the creator's voice so momentum never dies.
