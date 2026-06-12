@@ -18,6 +18,8 @@ Solo independent creators — filmmakers, content creators, game developers, sto
 - Intelligent research assistance (story research, market research, world-building, genre study)
 - Writing help (scripts, treatments, synopses, pitches, descriptions, dialogue)
 - Conversational and context-aware — understands the user's project and creative voice
+- **Voice & Emotional Learning**: learns the creator's writing style, tonal register, and emotional signature over time — every output adapts to feel like them, not like a generic AI
+- Reads emotional intent from conversational input and written passages; adjusts tone, pacing, and framing to match the creator's mood and intent in the moment
 
 ### 2. Content Creation
 - Movie trailer concept writing and storyboarding prompts
