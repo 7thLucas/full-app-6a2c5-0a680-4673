@@ -4,7 +4,7 @@
 *To be confirmed during onboarding*
 
 ## What It Is
-An all-in-one AI-powered solo production studio and personal assistant — built for independent creators who run the whole show themselves. Research, writing, content generation, merchandise design, and project organization all in one place, accessible from phone or PC.
+An all-in-one AI-powered solo production studio and personal assistant — built for independent creators who run the whole show themselves and always hit a wall before a project is finished. Research, writing, content generation, merchandise design, and project organization all in one place, accessible from phone or PC — with an AI that learns the creator's voice so momentum never dies.
 
 ## The Pitch
 "The Jarvis of the movie industry." One app that replaces a full production team for the solo creator: write a treatment, generate a poster concept, sketch a merchandise line, and keep every project meticulously organized — without switching tools.
