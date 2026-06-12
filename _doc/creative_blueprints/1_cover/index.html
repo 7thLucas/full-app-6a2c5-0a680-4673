@@ -1,0 +1,50 @@
+<style>
+  .mode-landscape .sl-layout { flex-direction: row; }
+  .mode-portrait .sl-layout { flex-direction: column; }
+  .mode-landscape .sl-left { width: 52%; }
+  .mode-landscape .sl-right { width: 48%; }
+  .mode-portrait .sl-left { width: 100%; flex: 1; }
+  .mode-portrait .sl-right { width: 100%; height: 38%; }
+</style>
+<section class="w-full h-full bg-white overflow-auto">
+  <div class="sl-layout flex h-full">
+
+    <!-- Left: Content column -->
+    <div class="sl-left flex flex-col justify-between p-12 bg-white">
+      <div>
+        <span class="inline-block bg-amber-500 text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">AI Production Studio</span>
+      </div>
+
+      <div>
+        <div class="w-10 h-1 bg-amber-500 mb-6 rounded-full"></div>
+        <h1 class="text-5xl font-black text-slate-900 leading-tight mb-5">
+          The Jarvis<br/>of the<br/>Movie Industry
+        </h1>
+        <p class="text-base text-slate-500 font-light leading-relaxed max-w-xs">
+          Research, write, create, and organize every production project — intelligently, from your phone or desktop.
+        </p>
+      </div>
+
+      <div class="flex items-center gap-3">
+        <data-attribution />
+      </div>
+    </div>
+
+    <!-- Right: Visual anchor -->
+    <div class="sl-right relative overflow-hidden">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=cinematic%20solo%20filmmaker%20at%20a%20glowing%20multi-screen%20workstation%20surrounded%20by%20movie%20posters%20scripts%20and%20storyboards%2C%20dramatic%20golden%20rim%20lighting%2C%20dark%20premium%20studio%20atmosphere%2C%20photorealistic%20ultra-detailed"
+        class="w-full h-full object-cover"
+        alt="Solo production studio"
+      />
+      <div class="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent"></div>
+      <!-- Floating feature badges -->
+      <div class="absolute bottom-10 left-8 flex flex-col gap-2">
+        <span class="bg-slate-900/80 text-white text-xs font-semibold px-3 py-1.5 rounded-full backdrop-blur-sm">✍️ Script &amp; Story Writing</span>
+        <span class="bg-slate-900/80 text-white text-xs font-semibold px-3 py-1.5 rounded-full backdrop-blur-sm">🎬 Trailer &amp; Poster Design</span>
+        <span class="bg-slate-900/80 text-white text-xs font-semibold px-3 py-1.5 rounded-full backdrop-blur-sm">📂 Project Organization</span>
+      </div>
+    </div>
+
+  </div>
+</section>
