@@ -53,6 +53,7 @@ Cinematic, empowering, intelligent, professional. A serious production tool for 
 3. **Project-native organization** — every asset, draft, and output lives inside its project; nothing floats loose
 4. **Pro output by default** — formatting, structure, and quality are always presentation-ready
 5. **Voice-first learning** — the more the creator uses it, the more the AI adapts to their unique tone and emotional signature; output grows increasingly personal over time
+6. **You own what you make** — the creator owns every output outright; pay for it and it's yours to print, sell, or pitch with no platform claim. This is the day-one first feature and a core differentiator vs. other AI tools
 
 ## Business Model
 - **Distribution**: Subscription-based SaaS — published as a product other solo creators pay to access monthly
