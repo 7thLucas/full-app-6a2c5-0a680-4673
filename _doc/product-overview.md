@@ -53,6 +53,14 @@ Cinematic, empowering, intelligent, professional. A serious production tool for 
 4. **Pro output by default** — formatting, structure, and quality are always presentation-ready
 5. **Voice-first learning** — the more the creator uses it, the more the AI adapts to their unique tone and emotional signature; output grows increasingly personal over time
 
+## Business Model
+- **Distribution**: Subscription-based SaaS — published as a product other solo creators pay to access monthly
+- **Creator's dual role**: Built by the creator for personal use first, then sold to a broader audience of solo creators who share the same production pain
+- **Target paying customers**: Same persona as the creator — independent filmmakers, game developers, content creators, storytellers who currently juggle 10+ tools with no organized system
+- **Revenue model**: Recurring monthly subscription as primary driver; one-time purchase as a potential alternative tier
+- **Pricing**: TBD; tier structure (e.g., basic vs. premium) and any free trial period TBD
+- **Market**: Solo creators globally — a large, underserved audience with genuine willingness to pay for a tool that saves production time and protects their work
+
 ## Scope Notes
 - Initial focus: solo creators managing one or more active production projects (movies, games, series)
 - Key differentiator: AI that understands visual references and keeps context per project
